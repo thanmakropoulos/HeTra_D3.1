@@ -24,5 +24,5 @@ Install python 3.7.3. Download link: https://www.python.org/downloads/release/py
 Click on the Windows x86-64 executable installer (for 64 bit Windows PC) as soon the download completes, execute the installer, checking on add to path checkbox during the installation process.
 Download the pyaudio .whl file for python 3.7.3. Download link: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio. Click on PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl in order to download the file.
 Then, move this file into the python_scripts folder which is located into the Client folder. Then, once you have navigated into the python_scripts folder, mark the file address bar, type cmd and press enter.
-In the command prompt appeared, type: pip install PyAudio 0.2.11 cp37 cp37m win_amd64.whl and afterwards type: pip install -r requirements.txt .
+In the command prompt appeared, type: pip install PyAudio 0.2.11 cp37 cp37m win_amd64.whl followed by enter and afterwards type: pip install -r requirements.txt followed by enter.
 Now, you should be able to test the voice tracker once you have connected a microphone device on you PC. You may follow the same steps presented above for the aforementioned sensors regarding the Connect and Check Devices and the Begin Acquisition buttons.
