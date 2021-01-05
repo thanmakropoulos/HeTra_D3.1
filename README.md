@@ -2,7 +2,7 @@ In order to run HeTra, you need to follow the steps below:
 
 Download the project.
 Double click on the Client folder and then double click on the HetraSensorsClient application.
-Then, double click on the Server folder and then double click on the HetraServer application.
+Then, double click on the Server folder and then double click on the HetraServer application. Two GUIs should appear; the HetraSensorsClient GUI and the HetraServer GUI.
 
 In order to test the secure API calls, you need to follow the steps below:
 
